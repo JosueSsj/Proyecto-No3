@@ -1,0 +1,13 @@
+button{
+    background-color: mediumspringgreen;
+    color: white;
+    padding: 15px;
+    font-size: 16px;
+}
+#centrar
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
